@@ -1,5 +1,6 @@
-# Automation-project
-Hacker Rank Automation
+# Automation-project-Hacker Rank Automation
+
+
 Hello everyone!
 
 The aim of the Hackerrank Automation project is to add moderators to the existing contest.
