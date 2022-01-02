@@ -3,7 +3,7 @@
 
 Hello everyone!
 
-The aim of the Hackerrank Automation project is to add moderators to the existing contest.
+The aim of the Hackerrank Automation project is to add moderators to the existing contest,automatically submit codes.
 
 The NPM libraries I used in this project is:-
 
